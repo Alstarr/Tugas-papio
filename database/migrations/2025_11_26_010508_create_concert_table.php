@@ -17,7 +17,6 @@ return new class extends Migration
             $table->string('title');
             $table->string('city');
             $table->string('venue');
-            $table->string('');
         });
     }
 
